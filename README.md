@@ -1,4 +1,4 @@
-# frontend
+# Fanse.io Front-end
 
 ## Project setup
 ```
